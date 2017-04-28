@@ -1,0 +1,6 @@
+D:\projects\SolrHelperApp\SolrHelperApp\bin\Debug\SolrHelperApp.exe.config
+D:\projects\SolrHelperApp\SolrHelperApp\obj\Debug\SolrHelperApp.csprojResolveAssemblyReference.cache
+D:\projects\SolrHelperApp\SolrHelperApp\bin\Debug\SolrHelperApp.exe
+D:\projects\SolrHelperApp\SolrHelperApp\bin\Debug\SolrHelperApp.pdb
+D:\projects\SolrHelperApp\SolrHelperApp\obj\Debug\SolrHelperApp.exe
+D:\projects\SolrHelperApp\SolrHelperApp\obj\Debug\SolrHelperApp.pdb
